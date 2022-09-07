@@ -1,0 +1,9 @@
+#game {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 288;
+    height: 512;
+}
